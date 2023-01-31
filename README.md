@@ -1,6 +1,6 @@
 # TinkersCalc
 Calcuator for Tinkers construct smelteries. 1.12.2 and eariler only
-A simple python program written with python3.11.1 and tkinter packaged with pyInstaller
+A simple python program written with python3.11.1 and tkinter packaged with pyInstaller.
 
 
 ---HOW TO USE---
