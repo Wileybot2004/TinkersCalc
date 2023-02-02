@@ -4,7 +4,7 @@ A simple python program written with python3.11.1 and tkinter packaged with pyIn
 
 
 ---HOW TO USE---
-Download and extract the zip file and run the exe file
+Download The EXE file from releases and run it.
 
 ---how to edit---
 download the python file and open it in a code editor
