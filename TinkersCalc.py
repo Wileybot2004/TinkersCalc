@@ -33,7 +33,10 @@ def action():
     tmp3 = tmp2 + 6
     tmp4 = tmp3 * 4
     tmp5 = tmp4 + 8 + 6 + 8 + 3 + 7
-    output.config(text=f"You need {tmp5} Seared brick(item) and 1 Glass for {tmp3} Seared brick blocks, 1 Smeltery Controller, 1 Seared Tank, 1 Seared Drain, 1 Seared Faucet and 1 Casting Table")
+    tmp6 = tmp5 / 2
+    tmp6 = int(tmp6)
+    tmp7 = tmp6 + 1
+    output.config(text=f"You need {tmp5} Seared brick(item) and 1 Glass for {tmp3} Seared brick blocks, 1 Smeltery Controller, 1 Seared Tank, 1 Seared Drain, 1 Seared Faucet and 1 Casting Table. Which is {tmp6} Clay(item) {tmp6} gravel and {tmp7} sand.")
 
 
         
